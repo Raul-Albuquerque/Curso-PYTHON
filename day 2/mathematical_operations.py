@@ -1,7 +1,7 @@
 #adition
 3 + 5
 
-#substraction
+#subtraction
 2 - 1
 
 #multiplication
@@ -11,12 +11,11 @@
 
 6 / 3
 
-#
+#EXPONENTES
 2 ** 3
 
-#PEMDA RULE
-#PARENTESES
-#EXPONENTES
-#MULTIPLICATION
-#DIVISION
-#SUBSTRACTION
+#PEMDAS -> LEFT TO RIGHT
+#PARENTESES ()
+#EXPONENTES ** 
+#MULTIPLICATION * #DIVISION / 
+#ADITION + SUBTRACTION -
