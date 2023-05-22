@@ -6,6 +6,6 @@ yearsLeft = 90 - int(age)
 
 days = yearsLeft * 365
 weeks = yearsLeft * 52
-mounths = yearsLeft * 12
+months = yearsLeft * 12
 
-print(f"you have {days} days, {weeks} weeks, and {mounths} mounths left.")
+print(f"you have {days} days, {weeks} weeks, and {months} months left.")
