@@ -24,5 +24,5 @@ while not bidding_finished:
   if should_finish == "no":
     bidding_finished = True
     find_highest_bidder(bids)
-  elif should_finish == "yes":
-    clear()
+ #elif should_finish == "yes":
+    #clear()
