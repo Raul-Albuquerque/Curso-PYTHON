@@ -16,9 +16,9 @@ def compare(first_person, second_person, users_choice, score, game_over):
     return False
 
 def game ():
-  print(f"Compare A: {first_person['name']}, {first_person['follower_count']}, {first_person['description']}, from {first_person['country']}.")
+  print(f"Compare A: {first_person['name']}, {first_person['description']}, from {first_person['country']}.")
   print(vs)
-  print(f"Compare B: {second_person['name']}, {second_person['follower_count']}, {second_person['description']}, from {second_person['country']}.")
+  print(f"Compare B: {second_person['name']}, {second_person['description']}, from {second_person['country']}.")
 
 score = 0
 game_over = False
