@@ -16,6 +16,7 @@ my_screen =  Screen()
 print(my_screen.canvheight) 
 timmy.shape("turtle")
 timmy.color("coral")
+#making the turtle move
 timmy.forward(100)
 
 ############ ACESSING THE METHODS #################
